@@ -36,4 +36,4 @@ const styles = {
 
 //only the 'root' component use AppRegistry!
 //make component available to other parts of the app
-export default Header;
+export { Header };
